@@ -1,5 +1,5 @@
 //Merge Sorted Array
-//Time Complexity: O(m*n)
+//Time Complexity: O(m+n)
 //Space Complexity: O(1)
 class Solution2 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
